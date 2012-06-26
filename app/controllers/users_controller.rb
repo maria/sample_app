@@ -9,7 +9,8 @@ before_filter :admin_user,     only: :destroy
 
   def show
 @user = User.find(params[:id])
-  end
+@micropost = @user.microposts.paginate(page: params[:page]) 
+ end
 
  def create
   @user = User.new(params[:user])
@@ -50,18 +51,11 @@ redirect_to @user
 
  private
 
-    def signed_in_user 
-
-      unless signed_in?
-      store_location
-      redirect_to signin_path, notice: "Please sign in." unless signed_in?
-    end
     
     def correct_user
       @user = User.find(params[:id])
       redirect_to(root_path) unless current_user?(@user)
     end
-end 
  
     def admin_user
       redirect_to(root_path) unless current_user.admin?
