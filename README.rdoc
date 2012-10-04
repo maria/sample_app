@@ -1,1 +1,18 @@
+#incep cu un comentariu
+
 Am modificat acest fisier, pentru a testa. :)
+
+def ofunctie():
+  nu zic nimic aici
+
+#definesc un alt comentariu
+  mai scriu cod 
+  alt cod
+
+#incep o alta functie
+
+  def adoua_functie():
+    cod
+    codu
+    codel
+
