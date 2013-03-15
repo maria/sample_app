@@ -17,6 +17,7 @@ def prima_functie():
 	cod
 
 def doua_functie():
+	#TODO: Ceva
 	cod	
 	cod
 
