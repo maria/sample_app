@@ -5,6 +5,10 @@ Definesc imports
 class X:
 	
 	
+class Y:
+    """ """
+	
+	
 Definesc variabile
 
 def prima_functie():
