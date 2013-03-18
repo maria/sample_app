@@ -18,7 +18,7 @@ def prima_functie():
 	cod
 
 def doua_functie():
-	#TODO: Ceva
+	#TODO(maria) Ceva
 	# de altceva
 	cod	
 	cod
@@ -26,10 +26,7 @@ def doua_functie():
 def treia_functie():
 	cod	
 	cod
-#
-#
+
 def patra_functie():
 	cod	
 	cod
-
-#Gata
