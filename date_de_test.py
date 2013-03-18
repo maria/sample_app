@@ -13,12 +13,13 @@ Definesc variabile
 
 def prima_functie():
 	cod
-## TODO: HEY!
-#Definesc o descriere - comentata.
+	#TODO: HEY!
+	#Definesc o descriere - comentata.
 	cod
 
 def doua_functie():
 	#TODO: Ceva
+	# de altceva
 	cod	
 	cod
 
