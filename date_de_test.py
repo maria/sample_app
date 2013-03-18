@@ -12,7 +12,8 @@ class Y:
 Definesc variabile
 
 def prima_functie():
-	cod	
+	cod
+## TODO: HEY!
 #Definesc o descriere - comentata.
 	cod
 
