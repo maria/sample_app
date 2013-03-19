@@ -16,6 +16,10 @@ def prima_functie():
 	#TODO: HEY!
 	#Definesc o descriere - comentata.
 	cod
+	cod
+	cod
+	cod
+	cod
 
 def doua_functie():
 	#TODO(maria) Ceva
