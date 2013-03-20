@@ -3,10 +3,12 @@
 
 Definesc imports
 class X:
-	
+    ''' Hey handsome
+    '''
 	
 class Y:
-    """ """
+    """ Hey pretty!
+    """
 	
 	
 Definesc variabile
@@ -28,6 +30,7 @@ def doua_functie():
 	cod
 
 def treia_functie():
+    ''' ceva '''
 	cod	
 	cod
 
